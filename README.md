@@ -16,4 +16,4 @@ I'm an enthusiastic junior web developer with a passion for creating outstanding
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rulsyahrulmaulana@gmail.com)
 
 ### GitHub analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrul35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
