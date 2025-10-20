@@ -18,6 +18,6 @@ I'm an enthusiastic junior web developer with a passion for creating outstanding
 <p align="left">
 <a href="https://github.com/syahrul35">
   <img height="180em" src="https://github-readme-stats-rho-seven-12.vercel.app/api?username=syahrul35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-rho-seven-12.vercel.app/api?username=syahrul35&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-rho-seven-12.vercel.app/api/top-langs/?username=syahrul35&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </a>
 </p>
