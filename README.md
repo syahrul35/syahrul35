@@ -15,9 +15,9 @@ I'm an enthusiastic junior web developer with a passion for creating outstanding
 | **Git** | <img src="https://th.bing.com/th/id/OIP.qdSP64cjgExVDMXwwu0TmwHaFj?rs=1&pid=ImgDetMain" alt="Git Logo" width="auto" height="75"><br>Proficient in using Git for version control, enabling collaborative development and efficient code management. |
 
 ### GitHub analytics
-<p align="left">
-<a href="https://github.com/syahrul35">
-  <img height="180em" src="https://github-readme-stats-xi-blush.vercel.app/api?username=syahrul35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-xi-blush.vercel.app/api/top-langs/?username=syahrul35&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-</a>
+<p align="left"> 
+  <a href="https://github.com/syahrul35"> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syahrul35&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syahrul35&layout=compact&langs_count=8&theme=algolia"/> 
+  </a> 
 </p>
