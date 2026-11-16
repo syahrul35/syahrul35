@@ -1,0 +1,164 @@
+
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="800"
+      height="250"
+      viewBox="0 0 800 250"
+      fill="none"
+    >
+      <rect width="800" height="250" rx="16" fill="#1a1b26"/>
+
+      <text
+        x="24" y="48"
+        fill="#c0caf5"
+        font-size="21"
+        font-weight="bold"
+        font-family="Arial, sans-serif"
+      >GitHub Overview</text>
+
+      <text
+        x="24" y="72"
+        fill="#a9b1d6"
+        font-size="12"
+        font-family="Arial, sans-serif"
+      >A snapshot of my GitHub activity</text>
+
+      
+      <g>
+        <rect
+          x="24" y="100"
+          width="174" height="112"
+          rx="12"
+          fill="#24283b"
+          stroke="#414868"
+        />
+
+        <rect
+          x="24" y="100"
+          width="4" height="112"
+          rx="2"
+          fill="#7aa2f7"
+        />
+
+        <text
+          x="44" y="138"
+          fill="#a9b1d6"
+          font-size="13"
+          font-family="Arial, sans-serif"
+        >Repositories</text>
+
+        <text
+          x="44" y="181"
+          fill="#c0caf5"
+          font-size="30"
+          font-weight="bold"
+          font-family="Arial, sans-serif"
+        >25</text>
+      </g>
+    
+      <g>
+        <rect
+          x="214" y="100"
+          width="174" height="112"
+          rx="12"
+          fill="#24283b"
+          stroke="#414868"
+        />
+
+        <rect
+          x="214" y="100"
+          width="4" height="112"
+          rx="2"
+          fill="#bb9af7"
+        />
+
+        <text
+          x="234" y="138"
+          fill="#a9b1d6"
+          font-size="13"
+          font-family="Arial, sans-serif"
+        >Contributions</text>
+
+        <text
+          x="234" y="181"
+          fill="#c0caf5"
+          font-size="30"
+          font-weight="bold"
+          font-family="Arial, sans-serif"
+        >364</text>
+      </g>
+    
+      <g>
+        <rect
+          x="404" y="100"
+          width="174" height="112"
+          rx="12"
+          fill="#24283b"
+          stroke="#414868"
+        />
+
+        <rect
+          x="404" y="100"
+          width="4" height="112"
+          rx="2"
+          fill="#7dcfff"
+        />
+
+        <text
+          x="424" y="138"
+          fill="#a9b1d6"
+          font-size="13"
+          font-family="Arial, sans-serif"
+        >Total Stars</text>
+
+        <text
+          x="424" y="181"
+          fill="#c0caf5"
+          font-size="30"
+          font-weight="bold"
+          font-family="Arial, sans-serif"
+        >4</text>
+      </g>
+    
+      <g>
+        <rect
+          x="594" y="100"
+          width="174" height="112"
+          rx="12"
+          fill="#24283b"
+          stroke="#414868"
+        />
+
+        <rect
+          x="594" y="100"
+          width="4" height="112"
+          rx="2"
+          fill="#9ece6a"
+        />
+
+        <text
+          x="614" y="138"
+          fill="#a9b1d6"
+          font-size="13"
+          font-family="Arial, sans-serif"
+        >Total Forks</text>
+
+        <text
+          x="614" y="181"
+          fill="#c0caf5"
+          font-size="30"
+          font-weight="bold"
+          font-family="Arial, sans-serif"
+        >0</text>
+      </g>
+    
+
+      <text
+        x="776" y="236"
+        text-anchor="end"
+        fill="#a9b1d6"
+        font-size="10"
+        font-family="Arial, sans-serif"
+      >github.com/syahrul35</text>
+    </svg>
+  

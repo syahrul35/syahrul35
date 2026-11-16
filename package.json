@@ -1,0 +1,34 @@
+{
+  "name": "syahrul35",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README and automated statistics generator",
+  "main": "index.js",
+  "scripts": {
+    "stats:generate": "tsx scripts/index.ts",
+    "stats:dev": "tsx watch scripts/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrul35/syahrul35.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahrul35/syahrul35/issues"
+  },
+  "homepage": "https://github.com/syahrul35/syahrul35#readme",
+  "dependencies": {
+    "@octokit/graphql": "^9.0.5",
+    "@octokit/rest": "^22.0.1",
+    "dotenv": "^18.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
