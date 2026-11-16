@@ -46,7 +46,7 @@
 
         <rect
           x="180" y="102"
-          width="211.224" height="9"
+          width="211.12" height="9"
           rx="4.5"
           fill="#7aa2f7"
         />
@@ -57,7 +57,7 @@
           fill="#a9b1d6"
           font-size="12"
           font-family="Arial, sans-serif"
-        >40.62%</text>
+        >40.60%</text>
       </g>
     
       <g>
@@ -77,7 +77,7 @@
 
         <rect
           x="180" y="134"
-          width="124.176" height="9"
+          width="124.12400000000001" height="9"
           rx="4.5"
           fill="#bb9af7"
         />
@@ -88,7 +88,7 @@
           fill="#a9b1d6"
           font-size="12"
           font-family="Arial, sans-serif"
-        >23.88%</text>
+        >23.87%</text>
       </g>
     
       <g>
@@ -294,7 +294,7 @@
 
         <rect
           x="180" y="358"
-          width="3.4839999999999995" height="9"
+          width="3.7439999999999998" height="9"
           rx="4.5"
           fill="#565f89"
         />
@@ -305,7 +305,7 @@
           fill="#a9b1d6"
           font-size="12"
           font-family="Arial, sans-serif"
-        >0.67%</text>
+        >0.72%</text>
       </g>
     
 
